@@ -105,9 +105,6 @@ export default {
 
   &:nth-of-type(1) {
     background-color: #b31512;
-    :hover {
-      background-color: white;
-    }
   }
   &:nth-of-type(2) {
     background-color: #e27515;
